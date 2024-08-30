@@ -1,0 +1,10 @@
+[
+    {
+      "role": "SDE Intern",
+      "organisation": "AlignTogether Solutions",
+      "startDate": "May, 2024",
+      "endDate": "July, 2024",
+      "experiences": ["Worked on Google Translation API related project.", "Migrated part of codebase from ReactJs to NextJs.","Wrote 5+ controllers logic from scratch."],
+      "imageSrc": "history/alignLogo.ico"
+    }
+  ]

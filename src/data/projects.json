@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Talk-a-tive",
+      "imageSrc": "projects/login.png",
+      "description": " Created a real-time chat application using the MERN stack, integrated with Socket.IO for seamless communication, and designed a responsive frontend with Chakra UI.",
+      "skills": ["React", "Express", "Node","Socket.io"],
+      "demo": "https://drive.google.com/file/d/1xbXTTGHKTP3DalnJk65g9jKVVeoizLoO/view?usp=drive_link",
+      "source": "https://github.com/Shashikant-Bidve/ChatApp"
+    },
+    {
+      "title": "Mystery Message",
+      "imageSrc": "projects/mystery.png",
+      "description": "Developed an anonymous messaging platform using Next.js, TypeScript, and Shadcn-UI with AI integration for message suggestions and optimized sign-in pages with debouncing.",
+      "skills": ["NextJs", "nextAuth", "Shadcn","TypeScript"],
+      "demo": "https://drive.google.com/file/d/1D9Adr-HANcnoVYcLoeDnM1b7Gf6cMTy0/view?usp=drive_link",
+      "source": "https://github.com/Shashikant-Bidve/Anonymous-Message"
+    },
+    {
+      "title": "Backend YouTube",
+      "imageSrc": "projects/project.png",
+      "description": "Built a comprehensive collection of Postman APIs, implemented JWT-based user authentication with bcrypt, and optimized user watch history retrieval using aggregation pipelines.",
+      "skills": ["NodeJs", "Express", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Shashikant-Bidve/Backend-VideoApp"
+    }
+  ]
